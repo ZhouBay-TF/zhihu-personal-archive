@@ -19,12 +19,6 @@ Windows PowerShell：
 Compress-Archive -Path .\* -DestinationPath ..\zhihu-personal-archive.zip -Force
 ```
 
-上传前确认 zip 里没有：
-
-- `archive/`（个人内容）
-- `.chrome-profile/`（登录 Cookie）
-- 任何个人数据、截图、日志
-
 ## 快速开始
 
 ```bash
